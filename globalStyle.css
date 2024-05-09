@@ -115,8 +115,6 @@ img {
     white-space: pre-line;
 }
 
-
-
 .card {
     background-color: white;
     display: flex;
@@ -129,6 +127,10 @@ img {
     text-align: center;
     padding: 1rem 0.5rem;
     border-radius: 5rem;
+}
+
+.stop-climate-section-title{
+    width: 5rem;
 }
 
 .navy-blue-card-title, .white-card-title {

@@ -472,8 +472,8 @@
     }
 
     .mission-card {
-      .img-container img {
-        width: 120%;
+      .image-container img {
+        width: 115%;
         aspect-ratio: 3/2;
       }
 
