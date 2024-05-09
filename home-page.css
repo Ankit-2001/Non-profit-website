@@ -524,6 +524,10 @@
     }
   }
 
+  .event-title{
+    width: 50rem;
+  }
+
   .subscribe-container {
     display: flex;
     flex-direction: row;
